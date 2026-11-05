@@ -110,7 +110,7 @@ No license has been chosen yet. The Icewall template is © Left4code and subject
 
 ## 👤 Author
 
-**Jackson Makinda** – [makindajackson.com](https://makindajackson.com)
+**Chalii wa UX/UI** – [@chaliiwaui](https://github.com/chaliiwaui)
 
 - 📧 Email: me@makindajackson.com
 - 💼 LinkedIn: [Jackson Makinda](https://linkedin.com/in/makindajack)
